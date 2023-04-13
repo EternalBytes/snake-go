@@ -1,5 +1,10 @@
 package main
 
+/*
+ * The author: https://github.com/MayconParanhos
+ * The goal of this project was to translate this game (https://github.com/serene-dev/snake-c), which was
+ * whitten in C, to Golang
+ */
 import (
 	"fmt"
 	"math/rand"
