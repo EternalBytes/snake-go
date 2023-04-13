@@ -3,9 +3,9 @@
 
 This snake game is a direct translation, from C to Go, of the Snake Game code from: [Console Snake Game in C](https://github.com/serene-dev/snake-c)
 
+If you are learning Golang, make sure to read this code and get the most out of it. 
 
-
-#### If you found a solution for a problem you figured out in this code, feel free to make a pull request.
+##### If you found a solution for a problem you figured out in this code, feel free to make a pull request.
 
 Compilation and running:
 ```
