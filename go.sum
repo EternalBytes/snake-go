@@ -1,0 +1,5 @@
+github.com/goki/gi v1.3.18 h1:4k1TWfbwxLfzLKEmjJBo+LqShdJZudv6k7w+C6wNY74=
+github.com/goki/gi v1.3.18/go.mod h1:JU2oxRUiDGsG42NTV2FvSflOlaYs778vVnouP6NU03g=
+github.com/goki/ki v1.1.11 h1:AjyHwgRtA734bROWb3bB/3fB/h1K5HZEoKfiitZpa8A=
+github.com/goki/ki v1.1.11/go.mod h1:8CF/Hl5lI5x09rlPLfJtw9w2XW/K6FK9eodjpeAKmNU=
+github.com/jinzhu/copier v0.3.2/go.mod h1:24xnZezI2Yqac9J61UC6/dG/k76ttpq0DdJI3QmUvro=
