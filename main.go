@@ -122,6 +122,7 @@ func main() {
 			/// SHOW GAMEOVER
 			fmt.Printf("\033[%dB\033[%dC Game Over! ", ROWS/2, COLS/2-5)
 			fmt.Printf("\033[%dF", ROWS/2)
+			time.Sleep(time.Second * 2)
 		}
 	}
 	// SHOW CURSOR
