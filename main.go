@@ -1,9 +1,8 @@
 package main
 
 /*
- * The author: https://github.com/MayconParanhos
- * The goal of this project was to translate this game (https://github.com/serene-dev/snake-c), which was
- * whitten in C, to Golang
+ * The author: @MayconParanhos || @mayconparanhos (Twitter)
+ * This Console Snake Game, written in Go, is based on the following game: (https://github.com/serene-dev/snake-c)
  */
 import (
 	"fmt"
